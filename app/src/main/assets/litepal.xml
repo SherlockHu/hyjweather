@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="init_weater"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.hyjweather.android.db.Province"/>
+        <mapping class="com.hyjweather.android.db.City"/>
+        <mapping class="com.hyjweather.android.db.County"/>
+    </list>
+
+</litepal>
